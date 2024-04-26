@@ -27,9 +27,3 @@ This repository serves as a comprehensive resource for labs and exercises coveri
 - Follow the documentation provided within each lab for step-by-step instructions on completing the exercises and understanding the concepts.
 - Experiment with the provided code and modify it to explore different scenarios and applications.
 
-## Contributors
-- [Your Name](https://github.com/your_username)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
